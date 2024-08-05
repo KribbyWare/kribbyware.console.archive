@@ -4,7 +4,7 @@ var download = "https://github.com/KribbyWare/kribbyware.console.archive/raw/mai
 help = [
   "<br>",
   '<span class="command">download</span>       Downloads AstroX Bootstrapper',
-  '<span class="command">discord</span>        Redirct to Kribby Discord',
+  '<span class="command">discord</span>        Redirect to Kribby Discord',
   "<br>",
 ];
 
